@@ -22,11 +22,6 @@ generateBtn.addEventListener("click", writePassword);
 
 
 
-//function generatePassword {
-
-//}
-
-//function UserEntry(){
  
 
 
